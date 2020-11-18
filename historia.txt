@@ -2,4 +2,6 @@ Hola este mi archivo
 
 Mi nombre es Yomar Gutierrez
 
-Tengo 35 años
+Tengo 35 años.
+
+Soy bastante alto
