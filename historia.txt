@@ -4,4 +4,8 @@ Mi nombre es Yomar Gutierrez
 
 Tengo 35 años.
 
-Soy bastante alto
+Soy bastante alto.
+
+Esta es una nueva linea para usar git reset --soft
+
+pero si coloco esta linea
