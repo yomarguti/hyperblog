@@ -2,3 +2,9 @@ body {
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.cabecera {
+  background-color: blue;
+  margin: 0 auto;
+  color: aliceblue;
+}
